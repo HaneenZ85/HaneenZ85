@@ -32,6 +32,6 @@
 - Practicing problem solving  
 - Building small projects  
 
-<h2 align="left">:heart: Let's get connected:</h2>
+
 
 
