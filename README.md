@@ -28,8 +28,10 @@
 
 <h2 align="left">📌 Current Focus:</h2>
 
-- Learning C++ fundamentals  
-- Practicing problem solving  
+-  C++
+-  OOP 
+- Practi
+- problem solving  
 - Building small projects  
 
 
